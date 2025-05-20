@@ -30,7 +30,7 @@
 
 
 # 🏢 Expériences professionnelles
-[CurriculumVitae](docs/index.html)
+[CurriculumVitae](https://deesse75.github.io/Deesse75/)
   AWBE Chargé de conciliation (Controle comptable)
 
 <!--
