@@ -5,8 +5,8 @@ Après une carrière de 16 ans dans le secteur bancaire, où j’ai évolué du 
 
 
 ## 💻 Compétences
-|Languages : | Outils : | 
-|------------|----------|
+|Languages :                       | Outils : | 
+|------------                      |  ----------|
 | C/C++      | DOcker |
 | Javascript   |         |
 | Typescript   |         |
