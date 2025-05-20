@@ -1,4 +1,10 @@
-## Hi there 👋
+##  👋 Presentation
+---
+
+Après une carrière de 16 ans dans le secteur bancaire, où j’ai évolué du poste de guichetière à celui de chargée de réconciliation, j’ai décidé en 2022 de me lancer un nouveau défi en intégrant l'école 42 pour me former au développement informatique ma passion de toujours.
+
+
+## 
 
 <!--
 **Deesse75/Deesse75** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
