@@ -30,7 +30,7 @@
 
 
 # 🏢 Expériences professionnelles
-[CurriculumVitae](pages/index.html)
+[CurriculumVitae](docs/index.html)
   AWBE Chargé de conciliation (Controle comptable)
 
 <!--
