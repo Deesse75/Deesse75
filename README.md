@@ -5,11 +5,16 @@ Après une carrière de 16 ans dans le secteur bancaire, où j’ai évolué du 
 
 
 ## 💻 Compétences
-- Languages :
-    *  C/C++
-    *  Javascript
-    *  Typescript
-- 
+|Languages : | Outils : | 
+|------------|----------|
+| C/C++      |
+| Javascript   |         |
+| Typescript   |         |
+
+
+
+
+
 <!--
 **Deesse75/Deesse75** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
