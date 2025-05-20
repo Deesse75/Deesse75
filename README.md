@@ -4,51 +4,34 @@
 [CurriculumVitae]()
 [Motivation]()
 
-# 🎓 Formation Ecole 42 Paris [👁️](https://42.fr/)
+# 🎓 Formation Ecole 42 Paris [(...)]()
 ---
 
 ## Cursus [(...)]()
 
   #### Tronc commun
-  | Nom du projet | Description | Objectif  | Stack | Cloner  |
-  |-|-|-|-|-|
+  | Nom du projet | Description | Objectif  | Stack |Cloner| Demo  |
+  |-|-|-|-|-|-|
   |Level 1|
-  |Libft|Recoder un certain nombre de fonctions de la librairie C standard, ainsi que d'autres fonctions utilitaires indispensable  tout au long du cursus |Consolider les acquis de la piscine| C, Makefile|  X |
+  |Libft|Recoder un certain nombre de fonctions de la librairie C standard, ainsi que d'autres fonctions utilitaires indispensable  tout au long du cursus |Consolider les acquis de la piscine| C, Makefile|  X ||
   |Level 2|
-  |get_next_line|Coder une fonction capable de lire un texte ligne par ligne|Manipuler les descripteurs de fichiers|C, Makefile|[[...]]()|
-  |Born2beroot|Creer une machine virtuelle avec Virtual box sans interface graphique et en respectant de nombreuses contraintes|Decouvrir la virtualisation|Bash|X|
-  |ft_printf|Recoder printf|Decouvrir les arguments variadiques|C, Makefile|X|
+  |get_next_line|Coder une fonction capable de lire un texte ligne par ligne|Manipuler les descripteurs de fichiers|C, Makefile|[[...]]()||
+  |Born2beroot|Creer une machine virtuelle avec Virtual box sans interface graphique et en respectant de nombreuses contraintes|Decouvrir la virtualisation|Bash|X||
+  |ft_printf|Recoder printf|Decouvrir les arguments variadiques|C, Makefile|X||
   |Level 3|
-  |push_swap|Trier une pile|Maitriser les listes chainees|C, Makefile|[[...]]()|
+  |push_swap|Trier une pile|Maitriser les listes chainees|C, Makefile|[[...]]()|[[...]]()|
   |Minitalk|
-  |so_long||||[[...]]()|
+  |so_long||||[[...]]()|[[...]]()|
   |Level 4|
-  |philosophers||||[[...]]()|
-  |Minishel||||[[...]()]|
-  ||||
-### Langage :
-  - Bash
-  - C/C++
-  - Javascript
-  - Typescript
-
-### Technologie : 
-  - Linux
-  - Docker
-  - Vim
-  - Vscode
-  - Git/Gitub
-
-### Projets phares
----
+  |philosophers||||[[...]]()|[[...]]()|
+  |Minishel||||[[...]()]||
+  |||||||
+  |||||||
+  |||||||
+  |||||||
 
 
-## Compétences antérieures
-
-  - VBA
-  - PHP
-  - HTML
-
+[Haut de page](README.md)
 
 # 🏢 Expériences professionnelles
 
@@ -58,7 +41,7 @@
   | Chargé de conciliation  | 6 ans | Excel VBA / TCD |
   | Agent de maitrise Back Office | 8 ans | Mise en place et/ou amélioration de processus |
   | Guichetier / Payeur | 4 ans | Clientele |
-  [Details]()
+
 
 <!--
 **Deesse75/Deesse75** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
